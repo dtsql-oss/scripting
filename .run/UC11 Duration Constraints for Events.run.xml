@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="UC11 Duration Constraints for Events" type="KotlinStandaloneScriptRunConfigurationType">
+    <module name="tsdl-scripting" />
+    <option name="PROGRAM_PARAMETERS" value="./data/evaluation_file_1_noise.csv" />
+    <shortenClasspath name="NONE" />
+    <option name="VM_PARAMETERS" value="--enable-preview" />
+    <option name="filePath" value="$PROJECT_DIR$/11-duration-constraints-for-events.main.kts" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

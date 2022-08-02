@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="00 Power Surge" type="KotlinStandaloneScriptRunConfigurationType">
+    <module name="tsdl-scripting" />
+    <shortenClasspath name="NONE" />
+    <option name="VM_PARAMETERS" value="--enable-preview" />
+    <option name="filePath" value="$PROJECT_DIR$/00-power-surge.main.kts" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

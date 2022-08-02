@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="evaluate.ps1" type="PowerShellRunType" factoryName="PowerShell" scriptUrl="$PROJECT_DIR$/evaluate.ps1" workingDirectory="$ProjectFileDir$" executablePath="C:/WINDOWS/System32/WindowsPowerShell/v1.0/powershell.exe">
+    <envs />
+    <method v="2" />
+  </configuration>
+</component>
